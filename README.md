@@ -12,8 +12,8 @@ Vaulted is a collector-driven, AI-assisted powerhouse for collectors of various 
 - Foundations / Planning
 
 ## Planned Tech Stack:
-- React (Web)
-- Node.js (API)
-- PostgreSQL
+- React.js (Web frontend)
+- Node.js (API backend)
+- PostgreSQL (Databasing)
 - AI-powered valuation engine
 - React Native (Mobile - TBA)
